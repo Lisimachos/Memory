@@ -1,0 +1,32 @@
+﻿Der Buildvorgang wurde am 26.07.2015 23:44:03 gestartet.
+     1>Projekt "C:\Users\Lukas\documents\visual studio 2010\Projects\Memory\Memory\Memory.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\Memory.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       GenerateTargetFrameworkMonikerAttribute:
+       Das Ziel "GenerateTargetFrameworkMonikerAttribute" wird übersprungen, da alle Ausgabedateien hinsichtlich der Eingabedateien aktuell sind.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Memory.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Memory.cpp /clr:nostdlib 
+         Memory.cpp
+         Alle Ausgaben sind aktuell.
+       CoreResGen:
+         Es sind keine Ressourcen vorhanden, die im Hinblick auf die Quelldateien veraltet sind. Die Ressourcengenerierung wird übersprungen.
+       ResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lukas\documents\visual studio 2010\Projects\Memory\Debug\Memory.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Memory.Form1.resources /MANIFEST /ManifestFile:"Debug\Memory.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Lukas\documents\visual studio 2010\Projects\Memory\Debug\Memory.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Memory.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Memory.vcxproj -> C:\Users\Lukas\documents\visual studio 2010\Projects\Memory\Debug\Memory.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Lukas\documents\visual studio 2010\Projects\Memory\Debug\Memory.exe;#1" /manifest Debug\Memory.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Die Datei "Debug\Memory.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\Memory.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\Lukas\documents\visual studio 2010\Projects\Memory\Memory\Memory.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:03.59
